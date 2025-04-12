@@ -16,3 +16,6 @@ pyenv.cfg
 # IDE/Editor files (optional)
 .vscode/
 .idea/
+
+# MAC
+.DS_Store
