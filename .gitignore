@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+.env
+bin/
+.bin
+
+# Local development files
+lib/
+include/
+pyenv.cfg
+
+# IDE/Editor files (optional)
+.vscode/
+.idea/
